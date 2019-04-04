@@ -1,0 +1,11 @@
+.wrapper {
+    background: rgb(175, 175, 175);
+    background-image: url('http://4.bp.blogspot.com/_6453GJWmXZ4/SwqKv8x4yRI/AAAAAAAAABI/KGD_u9FnVMo/s1600/hogwarts.jpg');
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
